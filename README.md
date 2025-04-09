@@ -1,5 +1,8 @@
 # Hi! I'm Larissa Benedicto
-This is my main account where I publish my projects. Here's is my studies account -> [allarrisa](https://www.github.com/allarrisa)
+
+Welcome to my main GitHub account, where I share my personal and professional projects.
+
+You can also check out my study-focused profile here: [@allarrisa](https://www.github.com/allarrisa)
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Larissabndct/)
