@@ -1,8 +1,6 @@
 # Hi! I'm Larissa Benedicto
 
-Welcome to my main GitHub account, where I share my personal and professional projects.
-
-You can also check out my study-focused profile here: [allarrisa](https://www.github.com/allarrisa)
+Welcome to my GitHub account, where I share my personal and professional projects.
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Larissabndct/)
